@@ -1,7 +1,7 @@
 ### Hi there 👋
-I am Shrey Jain, a Machine Learning Engineer who is interested in creating deep learning models, deployment architecture, microservices, containers, and cloud-native technology. I encourage the use of automation wherever possible and I think that everything can be automated. I want to share everything I've learned about Software Development and DevOps using Medium Blogs and Youtube. I like to build small applications, CICD, Setup different tools, and document everything on medium.
+I am Shrey Jain, a Machine Learning Engineer who is interested in creating deep learning models, deployment architecture, microservices, containers, and cloud-native technology. I encourage the use of automation wherever possible and I think that everything can be automated. I want to share everything I've learned throughout my data Journey, which is why I have started contributing actively to Medium blogs to disseminate valuable information to the broader community.
 
-#### 🔭 Expertise
+#### 🔭 My Expertise
   <ul><li>Programming and Machine Learning: Python, PyTorch, Numpy, Deep Learning, SpaCy
   <li>Cloud Platforms: Google Cloud Platform (BigQuery, GCE, GCS), AWS (Redshift, Athena, EC2, S3)
   <li>Containerization and Orchestration: Docker, Kubernetes, Google Kubernetes Engine (GKE)
