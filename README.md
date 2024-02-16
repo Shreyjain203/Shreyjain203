@@ -15,6 +15,7 @@ I am Shrey Jain, a Machine Learning Engineer who is interested in creating deep 
   <li>Workflow Management: Apache Airflow, Cloud Composer, MWAA (Managed Workflows for Apache Airflow)
   <li>Big Data and Distributed Computing: Databricks, pyspark, Data Proc, EMR (Elastic MapReduce)
   <li>Others: Slack API, A/B testing
+  </ul>
 
 #### 🌱 I’m currently learning
 Machine learning and deep learning techniques to enhance my skills in developing models for various applications.
