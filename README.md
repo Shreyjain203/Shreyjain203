@@ -25,7 +25,7 @@ End-to-end deployment of ML/DL models.
 
 #### 📫 How to reach me:
 
-LinkedIn: https://www.linkedin.comin/shreyjain203/
+LinkedIn: https://www.linkedin.com/in/shreyjain203/
 
 GitHub: https://github.com/Shreyjian203/
 
