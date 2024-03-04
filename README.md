@@ -30,7 +30,7 @@ LinkedIn: https://www.linkedin.com/in/shreyjain203/
 
 GitHub: https://github.com/Shreyjain203/
 
-Gmail: shreyjain203@gmail.com
+Gmail: shreyjain203@gmail.com | shrey.jain252@gmail.com
 
 StackOverflow: https://stackoverflow.com/users/11679722/shrey
 
