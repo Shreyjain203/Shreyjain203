@@ -28,7 +28,7 @@ End-to-end deployment of ML/DL models.
 
 LinkedIn: https://www.linkedin.com/in/shreyjain203/
 
-GitHub: https://github.com/Shreyjian203/
+GitHub: https://github.com/Shreyjain203/
 
 Gmail: shreyjain203@gmail.com
 
@@ -36,6 +36,7 @@ StackOverflow: https://stackoverflow.com/users/11679722/shrey
 
 Instagram: https://www.instagram.com/shreyrerere/
 
+Personal Website: https://shreyjain203.github.io/
 
 Medium: https://medium.com/@shreyjain203
 
