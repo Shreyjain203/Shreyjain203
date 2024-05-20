@@ -23,6 +23,7 @@ Machine learning and deep learning techniques to enhance my skills in developing
 
 #### 👯 I’m looking to collaborate on
 End-to-end deployment of ML/DL models.
+End-to-end design and implement robust data pipelines.
 
 #### 📫 How to reach me:
 
