@@ -22,8 +22,8 @@ I am Shrey Jain, a Machine Learning Engineer who is interested in creating deep 
 Machine learning and deep learning techniques to enhance my skills in developing models for various applications.
 
 #### 👯 I’m looking to collaborate on
-End-to-end deployment of ML/DL models.
-End-to-end design and implement robust data pipelines.
+<ul><li>End-to-end deployment of ML/DL models.
+<li>End-to-end design and implement robust data pipelines.</li></ul>
 
 #### 📫 How to reach me:
 
