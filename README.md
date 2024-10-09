@@ -35,7 +35,7 @@ Gmail: shreyjain203@gmail.com | shrey.jain252@gmail.com
 
 StackOverflow: https://stackoverflow.com/users/11679722/shrey
 
-Instagram: https://www.instagram.com/shreyrerere/
+Instagram: https://www.instagram.com/befikraaaaaaaaaa/
 
 Personal Website: https://shreyjain203.github.io/
 
