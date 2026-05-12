@@ -1,6 +1,6 @@
 # Shrey Jain
 
-OR Expert at Meta, working on NLP systems, GenAI agents, and operations research (LP/MIP) — currently building natural language interfaces to structured data.
+Data Scientist at Meta, working on NLP systems, GenAI agents, and operations research (LP/MIP) — currently building natural language interfaces to structured data.
 
 Previously built RAG pipelines, fine-tuned LLaMA-2/Mistral at scale, and shipped production ML at CXApp. Before that: ML at TruckX, data science at Dream11 (200M users), analytics at OYO Rooms.
 
