@@ -1,43 +1,25 @@
-### Hi there 👋
-I am Shrey Jain, a Machine Learning Engineer who is interested in creating deep learning models, deployment architecture, microservices, containers, and cloud-native technology. I encourage the use of automation wherever possible and I think that everything can be automated. I want to share everything I've learned throughout my data Journey, which is why I have started contributing actively to Medium blogs to disseminate valuable information to the broader community.
+# Shrey Jain
 
-#### 🔭 My Expertise
-  <ul><li>Programming and Machine Learning: Python, PyTorch, Numpy, Flask, Django, Deep Learning, SpaCy, NLP, Transformers, Large Language Models (LLM)
-  <li>Cloud Platforms: Google Cloud Platform (BigQuery, GCE, GCS), AWS (Redshift, Athena, EC2, S3)
-  <li>Containerization and Orchestration: Docker, Kubernetes, Google Kubernetes Engine (GKE)
-  <li>Web Experimentation: Causal Analysis, A/B Testing, Hypothesis testing, Statistics, Quantitative Analysis, Experimental Design
-  <li>Database Management: SQL (Postgres, MySQL, MS SQL Server), MongoDB, Hadoop, Hive, Scala, Snowflake
-  <li>Artifact and Container Registries: Google Artifact Registry, Google Container Registry
-  <li>Web (REST API) Development: Flask
-  <li>Data Manipulation and Analysis: Pandas, Excel
-  <li>Web Scraping and Automation: BeautifulSoup, Selenium, Python Automation
-  <li>Data Visualization: Looker, Matplotlib, Seaborn, PowerBi, Tableau, Metabase
-  <li>Version Control: Git, GitHub
-  <li>Workflow Management: Apache Airflow, Cloud Composer, MWAA (Managed Workflows for Apache Airflow)
-  <li>Big Data and Distributed Computing: Databricks, pyspark, Data Proc, EMR (Elastic MapReduce)
-  <li>Others: Slack API, Cron
-  </ul>
+OR Expert at Meta, working on NLP systems, GenAI agents, and operations research (LP/MIP) — currently building natural language interfaces to structured data.
 
-#### 🌱 I’m currently learning
-Machine learning and deep learning techniques to enhance my skills in developing models for various applications.
+Previously built RAG pipelines, fine-tuned LLaMA-2/Mistral at scale, and shipped production ML at CXApp. Before that: ML at TruckX, data science at Dream11 (200M users), analytics at OYO Rooms.
 
-#### 👯 I’m looking to collaborate on
-<ul><li>End-to-end deployment of ML/DL models.
-<li>End-to-end design and implement robust data pipelines.</li></ul>
+**MS Data Science** — University of San Francisco · **BE IT** — GGSIPU · Based in San Francisco, CA
 
-#### 📫 How to reach me:
+---
 
-LinkedIn: https://www.linkedin.com/in/shreyjain203/
+### What I work on
 
-GitHub: https://github.com/Shreyjain203/
+- LLMs, GenAI agents, and retrieval systems in production
+- Operations research: LP/MIP formulations, NL-to-SQL
+- ML infrastructure: GKE, Kubernetes, Docker, distributed training
 
-Gmail: shreyjain203@gmail.com | shrey.jain252@gmail.com
+### Side projects
 
-StackOverflow: https://stackoverflow.com/users/11679722/shrey
+- **SYNTH** — iOS AI personal OS
+- **sarvis** — iOS behavior intelligence layer
+- **cortex** — Claude Code skill framework
 
-Instagram: https://www.instagram.com/befikraaaaaaaaaa/
+---
 
-Personal Website: https://shreyjain203.github.io/
-
-Medium: https://medium.com/@shreyjain203
-
+[LinkedIn](https://linkedin.com/in/shreyjain203) · [Medium](https://medium.com/@shreyjain203)
